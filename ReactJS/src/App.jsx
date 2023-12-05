@@ -11,7 +11,8 @@ function App() {
     {/* Form controlled data */}
     {/* <Form/> */}
     {/* useEffect hook */}
-    {/* <BasicUseEffect/> */}
+    
+    <BasicUseEffect/>
     {/* Password genentor */}
     {/* <PasswordGenertor/> */}
   </div>;
