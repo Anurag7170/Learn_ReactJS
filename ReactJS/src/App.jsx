@@ -3,6 +3,7 @@ import Basic from "./components/useState/Basic";
 import Form from "./components/useState/Form";
 import PasswordGenertor from "./components/Password genertor/passwordGenertor";
 import BasicUseEffect from "./components/useEffect/BasicUseEffect";
+import Basics from "./components/Basics/Basics";
 
 function App() {
   return <div className="">
@@ -12,9 +13,12 @@ function App() {
     {/* <Form/> */}
     {/* useEffect hook */}
     
-    <BasicUseEffect/>
+    {/* <BasicUseEffect/> */}
     {/* Password genentor */}
     {/* <PasswordGenertor/> */}
+
+    {/* // basics of react */}
+    <Basics/>
   </div>;
 }
 
